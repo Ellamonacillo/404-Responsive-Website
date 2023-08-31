@@ -15,7 +15,7 @@ body {
     margin: 50px 20px 50px 20px;
 }
 img {
-    max-height: auto;
+    max-height: 100%;
     max-width: 80%;
 }
 .second{
@@ -23,16 +23,12 @@ img {
 }
 h1{
     font-family: 'Inconsolata', monospace;
-    /*font-size: clamp(3rem, 14.06vw + 2.828rem, 4rem);*/
-    /*font-size: calc(48px + (64 - 48) * ((100vw - 300) / (1600 - 300)));*/
-    font-size: clamp(48px, 10vw, 64px);
+    font-size: clamp(48px, 4vw, 64px);
     font-weight: 700;
 }
 h3 {
     font-family: 'Space Mono', monospace;
-    /*font-size: clamp(1.125rem, 5.272vw + 1.061rem, 1.5rem);*/
-    /*font-size: calc(18px +(24 - 18) * ((100vw - 300) / (1600 - 300)));*/
-    font-size: clamp(18px, 10vw, 24px); 
+    font-size: clamp(18px, 4vw, 24px); 
 }
 .info{
     font-weight: lighter;
