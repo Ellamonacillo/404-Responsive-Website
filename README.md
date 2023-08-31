@@ -45,6 +45,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
 - GitHub [@Ellamonacillo](https://{github.com/Ellamonacillo})
 - Twitter [@Ellamonacillo](https://{twitter.com/ellamonacillo})
