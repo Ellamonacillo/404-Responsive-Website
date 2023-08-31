@@ -34,7 +34,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/Ellamonacillo/404-Responsive-Website/blob/a9ac653d14d6e84d16494cd872d2b1cab4f722a6/output.JPG)
+![screenshot](https://github.com/Ellamonacillo/404-Responsive-Website/blob/31e68c698581ff27bd36728ceed638a0c347dc84/screenshot.JPG)
 
 
 ## Features
