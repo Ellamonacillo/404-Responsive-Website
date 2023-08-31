@@ -12,7 +12,7 @@ body {
     line-height: 25.18px;
 }
 .container{
-    margin: 50px 20px 50px 20px;
+    margin: 25px 20px 25px 20px;
 }
 img {
     max-height: 100%;
@@ -23,12 +23,12 @@ img {
 }
 h1{
     font-family: 'Inconsolata', monospace;
-    font-size: clamp(48px, 4vw, 64px);
+    font-size: clamp(38px, 4vw, 54px);
     font-weight: 700;
 }
 h3 {
     font-family: 'Space Mono', monospace;
-    font-size: clamp(18px, 4vw, 24px); 
+    font-size: clamp(14px, 4vw, 20px); 
 }
 .info{
     font-weight: lighter;
